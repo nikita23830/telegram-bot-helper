@@ -20,7 +20,7 @@ This bot is designed to help automate routine actions via Telegram. Suitable for
 2. Prepare the configuration file (an example is given in the release description).
 3. Launch the bot with the command:
    ```bash
-   ./tg_bot```
+   ./tg_bot
 
 ##⚙️ Configuration
 All settings are specified in the configuration file, which must be placed in the same directory as the binary file of the bot. In the configuration example:
