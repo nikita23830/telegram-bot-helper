@@ -22,8 +22,9 @@ This bot is designed to help automate routine actions via Telegram. Suitable for
    ```bash
    ./tg_bot
 
-##⚙️ Configuration
+
+## ⚙️ Configuration
 All settings are specified in the configuration file, which must be placed in the same directory as the binary file of the bot. In the configuration example:
 
-TG_BOT_TOKEN is a Telegram bot token received through @BotFather.
-TG_CHAT_ID - a chat in which the "Forum" mode is enabled
+- TG_BOT_TOKEN is a Telegram bot token received through @BotFather.
+- TG_CHAT_ID - a chat in which the "Forum" mode is enabled
