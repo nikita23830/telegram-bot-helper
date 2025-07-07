@@ -2,6 +2,7 @@
 
 [![Release](https://img.shields.io/github/v/release/nikita23830/telegram-bot-helper)](https://github.com/nikita23830/telegram-bot-helper/releases)
 [![License](https://img.shields.io/github/license/nikita23830/telegram-bot-helper)](LICENSE)
+![Go](https://img.shields.io/badge/made%20with-Go-blue?logo=go)
 
 A simple Telegram bot assistant with support for basic functions for automating tasks.
 
